@@ -1,6 +1,6 @@
 # Frontend Mentor - Article preview component
 
-![Design preview for the Article preview component coding challenge](../personally/assets/images/personlly-photo.png)
+![Design preview for the Article preview component coding challenge](./assets/images/personlly-photo.png)
 
 ## Welcome! 👋
 
